@@ -4,12 +4,12 @@
   "version": "1.0.0",
   "description": "Review AI Receptionist calls, prepare invoice drafts and customer follow-ups, check receivables, and request AI calls to vendors or suppliers in your InvoicifyAI workspace.",
   "author": {
-    "name": "14768868 Canada Inc.",
+    "name": "InvoicifyAI (14768868 Canada Inc.)",
     "email": "support@invoicifyai.com",
     "url": "https://www.invoicifyai.com"
   },
   "homepage": "https://www.invoicifyai.com/integrations/claude",
-  "repository": "https://github.com/choudhde/invoicifyai-claude-plugin",
+  "repository": "https://github.com/invoicifyai/claude-plugin",
   "license": "MIT",
   "keywords": [
     "invoicifyai",
