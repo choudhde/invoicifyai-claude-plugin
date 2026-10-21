@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "invoicifyai": {
+      "type": "http",
+      "url": "https://mcp.invoicifyai.com/mcp"
+    }
+  }
+}
